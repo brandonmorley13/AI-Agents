@@ -22,8 +22,7 @@ these agents. (The skills that used to live here now live there.)
 See [`agents/README.md`](agents/README.md) for install steps and which skills invoke each agent.
 
 ## `harness/`
-The agent-harness methodology these were built with — reusable process docs and code templates.
-See [`harness/README.md`](harness/README.md).
+The agent-harness methodology these were built with — the full write-up, the three quality loops, and the **flow diagram** live in [`harness/README.md`](harness/README.md).
 
 ## License
 MIT — see `LICENSE` (if present) or reuse freely.
